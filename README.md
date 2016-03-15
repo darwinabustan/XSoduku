@@ -1,0 +1,2 @@
+# XSoduku
+Soduku solver application
